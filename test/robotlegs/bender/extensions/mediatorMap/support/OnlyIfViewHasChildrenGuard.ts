@@ -5,7 +5,7 @@
 //  in accordance with the terms of the license agreement accompanying it.
 // ------------------------------------------------------------------------------
 
-import { Sprite } from "pixi.js";
+import { Sprite } from "pixi.js-legacy";
 
 import { injectable, inject, IGuard } from "@robotlegsjs/core";
 

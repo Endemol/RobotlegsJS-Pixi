@@ -9,7 +9,7 @@ import "../../../../../entry";
 
 import sinon = require("sinon");
 
-import { Sprite } from "pixi.js";
+import { Sprite } from "pixi.js-legacy";
 
 import { IContext, IInjector, ILogger, Context, TypeMatcher } from "@robotlegsjs/core";
 

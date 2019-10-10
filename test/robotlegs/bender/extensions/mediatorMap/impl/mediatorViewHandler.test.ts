@@ -9,7 +9,7 @@ import "../../../../../entry";
 
 import { assert } from "chai";
 
-import { Container, Sprite } from "pixi.js";
+import { Container, Sprite } from "pixi.js-legacy";
 
 import { IContext, IInjector, ITypeFilter, Context, TypeMatcher } from "@robotlegsjs/core";
 

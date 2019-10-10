@@ -11,7 +11,7 @@ import sinon = require("sinon");
 
 import { assert } from "chai";
 
-import { Container, Sprite } from "pixi.js";
+import { Container, Sprite } from "pixi.js-legacy";
 
 import { instantiateUnmapped, IInjector, ITypeFilter, RobotlegsInjector, TypeMatcher } from "@robotlegsjs/core";
 

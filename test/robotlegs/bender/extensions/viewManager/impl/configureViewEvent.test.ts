@@ -9,7 +9,7 @@ import "../../../../../entry";
 
 import { assert } from "chai";
 
-import { Container } from "pixi.js";
+import { Container } from "pixi.js-legacy";
 
 import { ConfigureViewEvent } from "../../../../../../src/robotlegs/bender/extensions/viewManager/impl/ConfigureViewEvent";
 

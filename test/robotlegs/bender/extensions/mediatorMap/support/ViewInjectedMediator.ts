@@ -7,7 +7,7 @@
 
 import { injectable, inject } from "@robotlegsjs/core";
 
-import { Sprite } from "pixi.js";
+import { Sprite } from "pixi.js-legacy";
 
 @injectable()
 export class ViewInjectedMediator {

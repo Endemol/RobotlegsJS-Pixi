@@ -7,7 +7,7 @@
 
 import { injectable, inject } from "@robotlegsjs/core";
 
-import { DisplayObject } from "pixi.js";
+import { DisplayObject } from "pixi.js-legacy";
 
 @injectable()
 export class ViewInjectedAsRequestedMediator {

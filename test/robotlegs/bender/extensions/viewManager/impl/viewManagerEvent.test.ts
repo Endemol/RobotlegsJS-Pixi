@@ -9,7 +9,7 @@ import "../../../../../entry";
 
 import { assert } from "chai";
 
-import { Sprite } from "pixi.js";
+import { Sprite } from "pixi.js-legacy";
 
 import { IViewHandler } from "../../../../../../src/robotlegs/bender/extensions/viewManager/api/IViewHandler";
 import { ViewManagerEvent } from "../../../../../../src/robotlegs/bender/extensions/viewManager/impl/ViewManagerEvent";

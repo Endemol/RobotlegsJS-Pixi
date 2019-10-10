@@ -11,7 +11,7 @@ import "../../../../../../src/robotlegs/bender/extensions/contextView/pixiPatch/
 
 import { assert } from "chai";
 
-import { Sprite } from "pixi.js";
+import { Sprite } from "pixi.js-legacy";
 
 import { IViewHandler } from "../../../../../../src/robotlegs/bender/extensions/viewManager/api/IViewHandler";
 import { ContainerBinding } from "../../../../../../src/robotlegs/bender/extensions/viewManager/impl/ContainerBinding";
